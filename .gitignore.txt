@@ -1,0 +1,6 @@
+/.vscode
+/Data
+/Include
+/Lib
+
+/pyenv
